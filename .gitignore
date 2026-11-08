@@ -1,0 +1,15 @@
+# Signing secrets - never committed. See keystore.properties.example
+# for the template and docs/keystore-recovery.md for where the real values live.
+keystore.properties
+*.jks
+*.keystore
+# Android local config (sdk.dir only)
+local.properties
+# Build outputs
+build/
+.gradle/
+# IDE
+.idea/
+*.iml
+# OS
+.DS_Store

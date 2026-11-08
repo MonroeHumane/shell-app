@@ -1,0 +1,8 @@
+{
+  "versionCode": 0,
+  "versionName": "0.0.0",
+  "apkUrl": "https://github.com/MonroeHumane/shell-app/releases/download/v0.0.0/app-release.apk",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "notes": "Placeholder - no release published yet. The Phase 1 publish script writes the real version.json.",
+  "publishedAt": "2026-11-08T05:45:02Z"
+}
